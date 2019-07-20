@@ -1,4 +1,10 @@
-# libBezierFiveLines -- WIP
+# libBezierFiveLines
+
+**deprecated**
+
+this is as far as it could go (to generate bezier curve).
+
+If you want to use the newest version of pool simulator, please refer to [PoolTableSimulator](https://github.com/frychicken/PoolTableSimulator).
 
 Generate quadratic curve and pool table simulation
 
